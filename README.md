@@ -1,7 +1,7 @@
 
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="40" height="40" />
+<img src="giphy.gif"  />
 
-![Alt Text](https://giphy.com/embed/qgQUggAC3Pfv687qPC)
+<!-- ![Alt Text](../giphy.gif) -->
 
 
 <!--
