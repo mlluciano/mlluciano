@@ -1,5 +1,8 @@
 
-<img src="giphy.gif"  />
+<div id="header" align="center"> 
+  <img src="giphy.gif"  />
+</div>
+
 
 <!-- ![Alt Text](../giphy.gif) -->
 
