@@ -1,7 +1,7 @@
 
 <div id="header" align="center"> 
   <img src="giphy.gif"  />
-  <p>:wave: Hi, I'm Manny.</p>
+  <p>:wave: Hey.</p>
  
  ⚡
  ⚡ 
