@@ -3,9 +3,9 @@
   <img src="giphy.gif"  />
   <p>:wave: Hi, I'm Manny.</p>
  
- ⚡Fullstack softare development 
- ⚡Systems administration 
- ⚡Devops 
+ ⚡
+ ⚡ 
+ ⚡
 </div>
 
 
