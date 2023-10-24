@@ -1,11 +1,6 @@
 
 <div id="header" align="center"> 
   <img src="giphy.gif"  />
-  <p>:wave:</p>
- 
- ⚡
- ⚡ 
- ⚡
 </div>
 
 
