@@ -1,6 +1,10 @@
 
-<div id="header" align="center"> 
-  <img src="giphy.gif"  />
+<div id="header" align="left"> 
+  <h1>⚡ Hi, i'm Manuel. </h1>
+  <p>
+    I build out full stack, multi tier, feature rich applications and systems. I also manage the on premise infrastruture my applications run on using technologies like Ansible and Salt. Currently working as a full time   
+technical staff member in the Advanced Computing and Information Systems Laboratory @ the University of Florida.
+  </p>
 </div>
 
 
