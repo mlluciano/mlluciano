@@ -1,9 +1,8 @@
 
 <div id="header" align="left"> 
-  <h1>⚡ Hi, i'm Manuel. </h1>
+  <h3>⚡ Hi, i'm Manuel. </h3>
   <p>
-    I build out full stack, multi tier, feature rich applications and systems. I also manage the on premise infrastruture my applications run on using technologies like Ansible and Salt. Currently working as a full time   
-technical staff member in the Advanced Computing and Information Systems Laboratory @ the University of Florida.
+    Software Engineer working on agent runtimes, observability, and evaluation of multi-agent systems.
   </p>
 </div>
 
